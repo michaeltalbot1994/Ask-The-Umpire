@@ -1,0 +1,28 @@
+WICKY - OPENING INSTRUCTIONS
+
+Do not try to run the chatbot inside a Teams, Outlook, OneDrive or SharePoint preview. Those previews disable the JavaScript used by the question buttons.
+
+1. Download this ZIP file to your computer.
+2. Right-click the ZIP and select Extract All.
+3. Open the extracted folder.
+4. Right-click Wicky.html and select Properties.
+5. If an Unblock checkbox appears, tick it and select Apply.
+6. Right-click Wicky.html, select Open with, then choose Microsoft Edge or Google Chrome.
+
+The chatbot runs locally and does not require a login or internet connection.
+
+TO USE WICKY FOR ANOTHER ASSOCIATION
+
+1. Open Wicky.html in Edge or Chrome.
+2. On Wicky's front page, enter the association or competition name.
+3. Drag its PDF, DOCX, TXT or MD rule book onto the upload area.
+4. Select Load association rules.
+
+To use the built-in rule book, select Start with Premier Cricket. Premier Cricket
+is Wicky's default option. Rules can also be changed later through Association setup.
+
+Wicky saves that setup in the browser on that computer. Select Export setup to
+create a small Wicky setup file that can be imported on another computer.
+PDF files must contain selectable text. Image-only scans need to be converted with OCR first.
+
+If your organisation prevents the HTML file from being unblocked or prevents local JavaScript from running, the chatbot must be placed on an IT-approved web hosting service. The file owner cannot override that security policy by changing sharing permissions.
